@@ -1,1 +1,9 @@
-Placeholder
+This file contains examples of good and bad memory aids to guide creation of future memory aids.
+Use these memory aids as examples of what to create and what to avoid.
+Good memory aids are prefaced by "GMA:"
+Bad memory aids are prefaced by "BMA:"
+
+GMA: Think "Salt and Pep!" where "Salt" (sodium oxybate) helps calm the storm of narcolepsy by night, and "Pep" (pitolisant) perks up the day. This duo keeps both night terrors and day drowsiness at bay in narcolepsy with cataplexy.</p>
+
+
+
