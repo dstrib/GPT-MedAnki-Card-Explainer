@@ -14,7 +14,7 @@ The "Background Explanation" section should be approximately 1-2 paragraphs long
 
 The "Footer" should contain the text: 
 """
-AnKing-Card-Explainer - v0.1.2 - GPT4 2024-05
+MedAnki-Card-Explainer - v0.1.2 - GPT4 2024-05
 ChatGPT can make mistakes. Consider checking important information.
 """
 Use the "header" tag to format the footer as font size 9 and italics, provided as HTML.
