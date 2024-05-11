@@ -1,5 +1,5 @@
-MedAnki-Card-Explainer
-======================
+GPT-MedAnki-Card-Explainer
+==========================
 A GPT for explaining content in medically focused Anki flashcards
 
 Current stable version available at: https://chatgpt.com/g/g-CX92RRG5c-medical-anki-flashcard-explainer-anking
