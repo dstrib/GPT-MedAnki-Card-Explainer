@@ -10,7 +10,9 @@ Example Output for Current Version:
 
 Question::
 
-    Patients with narcolepsy and significant {{c2::cataplexy}} may benefit from pharmacological treatment with {{c1::sodium oxybate}} and/or {{c1::pitolisant}}
+    Patients with narcolepsy and significant {{c2::cataplexy}}
+    may benefit from pharmacological treatment with
+    {{c1::sodium oxybate}} and/or {{c1::pitolisant}}
 
 Example Output:
 
