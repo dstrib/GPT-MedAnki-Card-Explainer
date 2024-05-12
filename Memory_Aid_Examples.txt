@@ -1,9 +1,41 @@
 This file contains examples of good and bad memory aids to guide creation of future memory aids.
 Use these memory aids as examples of what to create and what to avoid.
+
 Good memory aids are prefaced by "GMA:"
 Bad memory aids are prefaced by "BMA:"
+Some examples of good and bad memory aids are followed by an explanation, explaining what is good or bad about this memory aid. Explanations are prefaced by the text: "Explanation:". These explanations are only provided for the purpose of example, and should not be included in output of memory aids.
+
+Begin Memory Aid Examples:
 
 GMA: Think "Salt and Pep!" where "Salt" (sodium oxybate) helps calm the storm of narcolepsy by night, and "Pep" (pitolisant) perks up the day. This duo keeps both night terrors and day drowsiness at bay in narcolepsy with cataplexy.</p>
 
+GMA: Remember CANF - Cephalosporins, Amoxicillin-clavulanate, Nitrofurantoin, and Fosfomycin. Just think of a can of "F-antibiotics" to treat asymptomatic bacteriuria, ensuring safety for both the mother and the fetus.</p>
+Explanation: This memory aid is excellent because it links together the starting letters of each medication using a concrete concept, like a "CAN" that is easy to remember.
 
+GMA: Think of "Low FSH, Check the TaP" where TaP stands for TSH And Prolactin. This mnemonic helps recall the next steps in assessing the cause of primary amenorrhea when the usual hormonal driver (FSH) is low—tap into the thyroid and pituitary function tests!</p>
 
+BMA: Think of "Pelvic Peace" to help remember that pelvic floor physical therapy brings peace to the pelvic muscles, calming the spasms associated with vaginismus. Imagine the pelvic floor as a tense muscle battlefield that needs training to turn into a peaceful sanctuary.
+Explanation: This is a poor memory aid because it is vague and nonspecific, and also does not provide any additional aids to remember the topic.
+
+BMA: Think of "Pyramid-Sulfur-Leo" to remember the treatment trio for neonatal toxoplasmosis: Pyrimethamine (Pyramid), Sulfadiazine (Sulfur), and Leucovorin (Leo). Just imagine a pyramid made of sulfur with a lion (Leo) guarding it, ensuring that the pyramid stays strong against invaders like parasites!
+Explanation: while using concrete concepts like "Pyramid-Sulfur-Leo" is good for memory aid, this memory aid is overall poor because it does not directly include the specific pathogen and disease discussed in the questioin: Toxoplasma Gondii, causing congenital toxoplasmosis.
+
+BMA: Think of "Double L Trouble" for PCOS, where the 'L' in 'Double L' stands for LH which is double or more than FSH in many cases. It’s a trouble indicator in the diagnosis of PCOS!
+Explanation: This iis a poor memory aid because it has nothing to do with the concepts involved and is no easier to remember than the original fact.
+
+BMA: Think "No Fluoro for the Fetus", reminiscent of avoiding fluoride for infants to protect their teeth. Just as fluoride can damage young, developing teeth, fluoroquinolones can harm the forming cartilage in a fetus.
+Explanation: This memory aid does not assist in remembering the primary point of the question, that fluoroquinolones harm cartilage specifically.
+
+BMA: Remember "Aminoglycosides ask for silence" to recall that these antibiotics can lead to deafness, muting the world for the newborn. This phrase helps to link the sound of silence with the risk of hearing loss associated with these drugs.
+Explanation: This memory aiid does not provide any effective device to help remember the content.
+
+GMA: To help remember the link between aminoglycosides and hearing loss in newborns, think of "Amin-no-hear-glycosides." This phrase incorporates the drug class with a direct reference to its auditory side effect, encapsulating the essence of how these antibiotics can lead to newborn deafness by simply playing with the sound of the drug class name itself.
+
+BMA: Think "Fluoro-kid-nolones: Not for Baby Joints!" This helps remember that fluoroquinolones are not ideal during pregnancy due to the risk they pose to developing cartilage in fetuses.
+Explanation: This memory aid does not make it any easier to remember the connection between fluoroquinolones and fetal cartilage.
+
+GMA: Think "FluoroQuin-no-lones for Baby Bones!" Picture a construction site where the foundation (cartilage) isn’t laid down because the workers (fluoroquinolones) keep breaking it. This whimsical image helps cement the idea that fluoroquinolones interfere with cartilage development in fetuses.
+Explanation: This memory aid does an excellent job of using rhyming to help remember the connection between the concepts.
+
+End Memory Aid Examples:
+Remember, the explanations provided here for memory aids are for example purposes only, and should not be included in outputs. 

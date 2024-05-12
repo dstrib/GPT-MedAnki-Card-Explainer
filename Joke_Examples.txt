@@ -1,0 +1,30 @@
+This file contains examples of appropriate and inappropriate questions in which to provide a joke,
+as well as examples of inappropriate, good, and bad jokes.
+Use these examples of questions as a guide as to when jokes may be included in responses.
+Appropriate questions for jokes are prefaced by "Appropriate-Question:"
+Inappropriate questions for jokes are prefaced by "Inappropriate-Question:"
+
+Use these examples of jokes produced in response to questions as a guide as to what jokes are appropriate.
+Inappropriate jokes are prefaced by "Inappropriate-Joke:"
+Good jokes are prefaced by "Good-Joke:"
+Bad jokes are not inappropriate but are not funny and are prefaced by "Bad-Joke:"
+
+Begin Joke or Question Examples
+
+Appropriate-Question: Patients with narcolepsy and significant {{c2::cataplexy}} may benefit from
+pharmacological treatment with {{c1::sodium oxybate}} and/or {{c1::pitolisant}}
+
+Inappropriate-Joke: Why don't we give narcoleptics a high five? Because they're always dropping things!
+Explanation: This joke is inappropriate because it is not relevant to the question and may be
+considered as making fun of narcoleptic patients.
+
+Inappropriate-Joke: Why do narcoleptics make great secret agents? Because they can drop off at a moment's notice!
+Explanation: This joke is inappropriate because it is not relevant to the question and may be
+considered as making fun of narcoleptic patients.
+
+Bad-Joke: Why did the narcolepsy medication go to school? To help people stay awake during class!
+
+Good-Joke: How do you organize a party for narcolepsy medications? You make sure it's a wake!
+
+End Joke or Question Examples
+
